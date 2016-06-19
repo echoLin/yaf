@@ -1,0 +1,27 @@
+html,body{
+    background-color: #fcf8dd;
+    text-align: center;
+    margin-left:10%;
+    margin-right: 10%;
+    margin-top:5%;
+    padding:0px;
+    height: 100%;
+}
+.content {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -4em;
+}
+
+#footer .credits{
+    padding:5px 0;
+    border-top:#aaa 1px solid;
+}
+
+#footer .copyrights{
+    padding:5px 0; 
+}
+#footer p {
+    text-align: center;
+}
